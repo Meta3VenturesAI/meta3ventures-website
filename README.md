@@ -19,4 +19,3 @@ npm start
 ## Deployment
 
 This project is setup to deploy to Vercel via GitHub Actions. Add your Vercel secrets (\`VERCEL_TOKEN\`, \`VERCEL_PROJECT_ID\`, \`VERCEL_ORG_ID\`) in your repository settings.
-# meta3ventures-website
